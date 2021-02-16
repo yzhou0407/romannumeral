@@ -9,7 +9,7 @@ Supported integer range: 1<={integer}<=3999
 Step 1. Open a Terminal window and change to a directory for cloning the project.
 
 ```
-cd /myproject
+cd myproject
 ```
 
 Step 2. Clone the project from GIT repository.
@@ -21,7 +21,7 @@ $git clone https://github.com/yzhou0407/romannumeral.git
 Step 3. Change directoy to the folder under which project contents are located.
 
 ```
-$cd /mygitproject/romannumeral/romannumeral
+$cd romannumeral/romannumeral
 ```
 
 Step 4. Build and install the application.
